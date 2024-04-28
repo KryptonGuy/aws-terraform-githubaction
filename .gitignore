@@ -1,0 +1,8 @@
+
+# Terraform
+
+*.hcl
+.Terraform
+
+# mac 
+.DS_Store
